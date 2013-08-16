@@ -4,6 +4,7 @@
 .config
 .DS_Store
 coverage
+Gemfile.lock
 InstalledFiles
 lib/bundler/man
 pkg
