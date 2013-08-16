@@ -4,7 +4,7 @@ require "gemstone_ruby/version"
 
 Gem::Specification.new do |s|
   s.name          = 'gemstone_ruby'
-  s.version       = GemStone::Version
+  s.version       = GemStone::VERSION
   s.summary       = "FFI for GemStone/S 64 Bit C Library"
   s.description   = "FFI for GemStone/S 64 Bit C Library"
   s.authors       = ["James Foster"]
